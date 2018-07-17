@@ -39,7 +39,7 @@
 - Andrew E
 - Sandra E
 - Jonathan E
-- Uche E
+- [Erondu, Uche (@UcheE)](https://www.github.com/UcheE/liftoff-assignments)
 - Paul F
 - Rim F
 - Carl F
