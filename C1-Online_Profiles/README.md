@@ -7,10 +7,10 @@ For this assignment you will need to upload your resume, and provide links to yo
 ## Submission Instructions
 
 ### GitHub
-Provide a link to your GitHub account here.
+https://github.com/UcheE
 
 ### LinkedIn
-Provide a link to your LinkedIn account here.
+www.linkedin.com/in/ucheerondu
 
 ### Resume
-You will need to upload a .PDF of your resume to this repo.
+Sent directly to your email David Morse.
