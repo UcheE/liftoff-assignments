@@ -10,9 +10,7 @@ I want to create a Global Marketplace (e-commerce site) for custom/homemade Afri
 ### Features
 User log-in/registration- users will choose to be either a shopper/donor or a shop owner. Shoppers/donors will create a profile that will allow them to customize their settings and other features such as- keeping payment option, storing favorite’s items or shops, previous orders. The Shop owner will have a more detailed profile and registration.
 
-Email confirmations- The shop owners and shoppers will have to confirm emails to have a profile on the site.
-
-Filters- Users will be able to filter by key words, brands, shop name, and featured items
+customer feedback/ comment page- customers can talk and give reviews about products and leave star reviews 
 
 Cart/Checkout- Users can send merchandise and donations to cart and checkout using either debit/credit cards or Paypal
 
@@ -27,10 +25,8 @@ Intelli J
 Spring 
 
 ### What I'll have to learn
-React
 JavaScript
 HTML5
-Angular
 Adding a payment integration portal
 
 ### Project Tracker: Trello or/and GitHub Projects. 
