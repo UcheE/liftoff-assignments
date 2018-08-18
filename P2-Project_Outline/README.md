@@ -8,7 +8,7 @@ For this assignment, you will submit a high-level outline of your project. This 
 I want to create a Global Marketplace (e-commerce site) for custom/homemade African designs and products. It will have a micro-financing aspect that will also help grassroots African business owners by giving them an opportunity to sell their merchandise on a global market. The goal is to help these shop owners become acclimated into the world of e-commerce. We will help them create a profile and merchandise page where shoppers can buy their items or chose to donate to their shops. It will be comparable to Etsy and Kiva combined. Each month we will feature a shop owner and a percentage of the sites overall profit will go to help grow their business. 
  
 ### Features
-User log-in/registration- users will choose to be either a shopper/donor or a shop owner. Shoppers/donors will create a profile that will allow them to customize their settings and other features such as- keeping payment option, storing favorite’s items or shops, previous orders. The Shop owner will have a more detailed profile and registration.
+User log-in/registration- users will choose to register the form for either the shopper/donor or a shop owner. Users can log-in/out  with username and password.
 
 customer feedback/ comment page- customers can talk and give reviews about products and leave star reviews 
 
@@ -25,8 +25,9 @@ Intelli J
 Spring 
 
 ### What I'll have to learn
+Refresh on Java
 JavaScript
 HTML5
 Adding a payment integration portal
 
-### Project Tracker: Trello or/and GitHub Projects. 
+### Project Tracker: Trello 
